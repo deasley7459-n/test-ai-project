@@ -1,0 +1,2 @@
+- Source code follows standard Maven layout with production classes under `src/main/java` and tests under `src/test/java` sharing the same package namespace.
+- Public API surface is exposed as `static` methods on the main class rather than through separate service classes.

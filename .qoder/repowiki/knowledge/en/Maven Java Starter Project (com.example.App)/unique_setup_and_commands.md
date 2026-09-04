@@ -1,0 +1,1 @@
+Build with `mvn package`; run the application with `java -cp target/test-ai-project-1.0-SNAPSHOT.jar com.example.App <name>` or via `mvn exec:java` if configured; execute tests with `mvn test`.

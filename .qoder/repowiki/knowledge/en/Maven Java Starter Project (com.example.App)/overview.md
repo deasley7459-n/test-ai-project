@@ -1,0 +1,1 @@
+Minimal Maven-based Java 17 project providing a CLI entry point that greets a user by name, with JUnit 5 unit tests.

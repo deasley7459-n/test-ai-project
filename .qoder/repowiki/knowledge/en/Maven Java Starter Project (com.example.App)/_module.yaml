@@ -1,0 +1,11 @@
+schema_version: 1
+module_path: ""
+title: Maven Java Starter Project (com.example.App)
+scope:
+    - src/
+    - pom.xml
+    - .gitignore
+    - wordtest
+source_files: []
+depends_on: []
+related_to: []

@@ -1,0 +1,1 @@
+Java 17, Maven 3.x, JUnit Jupiter 5.10.0 for unit testing, compiled with maven-compiler-plugin 3.11.0 and executed via maven-surefire-plugin 3.1.2.

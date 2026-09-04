@@ -1,0 +1,19 @@
+# 知识卡导出索引文件
+schema_version: 1
+locale: en-US
+branch: main
+nodes_managed: true
+exported_at: "2026-09-04T10:03:23Z"
+modules:
+    "":
+        dir_name: Maven Java Starter Project (com.example.App)
+        title: Maven Java Starter Project (com.example.App)
+        scope:
+            - src/
+            - pom.xml
+            - .gitignore
+            - wordtest
+        source_files: []
+        children: []
+        depends_on: []
+        related_to: []
